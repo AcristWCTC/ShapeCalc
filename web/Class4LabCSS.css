@@ -56,6 +56,12 @@ font-size: 24px;
     right: 50%;
 
 }
+.result{
+    font-size: 30px;
+    color: black;
+    font-style:italic;
+    
+}
 
 span{
     display: block;

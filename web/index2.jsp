@@ -48,7 +48,7 @@ and open the template in the editor.
 </html>
 
 
-        <p>
+        <p class="result">
             <%
                 Object responseObj = request.getAttribute("myMsg");
                 Object errObj = request.getAttribute("errorMsg");
