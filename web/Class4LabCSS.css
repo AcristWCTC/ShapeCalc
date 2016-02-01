@@ -12,7 +12,7 @@ form{
     text-align: left;
     font-size: 30px;
     padding: 5px;
-    padding-bottom: 30px;
+    padding-bottom: 36px;
     
 }
 .RectangleCalculator{
@@ -35,6 +35,26 @@ font-size: 24px;
 .button:hover {
     background-color: #000000; 
     color: white;
+}
+.img3{
+    position: absolute;
+    top: 60%;
+    right: 50%;
+
+}
+
+.img2{
+    position: absolute;
+    top: 36%;
+    right: 50%;
+
+}
+
+.img{
+    position: absolute;
+    top: 13%;
+    right: 50%;
+
 }
 
 span{
