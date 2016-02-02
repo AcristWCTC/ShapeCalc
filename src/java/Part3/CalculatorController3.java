@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletResponse;
  * @author Adam
  */
 @WebServlet(name = "CalculatorController2", urlPatterns = {"/CalculatorController2"})
-public class CalculatorController2 extends HttpServlet {
+public class CalculatorController3 extends HttpServlet {
 
     private static final String DEST_PAGE = "/index2.jsp";
     String responseMsg = null;
